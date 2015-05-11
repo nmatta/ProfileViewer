@@ -11,7 +11,6 @@ module.exports = function (router) {
     var model = new IndexModel();
 
     router.get('/', function (req, res){
-
         res.render('signin', {error: req.query.error, 'user': req.session.user});}
     ); 
 
@@ -23,14 +22,14 @@ module.exports = function (router) {
         var name = req.body.name;
         var pwd = req.body.password;
         
-        if((name === 'nmatta') && (pwd === 'pranav')){
+        if((name === 'user') && (pwd === 'password')){
             //setting user session
             req.session = req.session || {};
             req.session.user = "Naveen Kumar Matta";
             res.redirect('/aboutme');
-        } else{
+        } /*else{
             res.redirect('/?error=true');
-        }
+        }*/
     });
 
     router.get('/aboutme', function (req, res) {
