@@ -1,0 +1,35 @@
+{>"layouts/master" /}
+{<body}
+<h3 class="cust-header-undeline">Contact Me</h3>
+<div class="container">
+<form role="form" class="cust-form-width" action="/viewFrmDetails" method="POST">
+<div class="form-group">
+<label for="name">Name:</label>
+<input type="text" class="form-control" id="name" name="name" placeholder="Enter name" required autofocus>
+</div>
+<div class="form-group">
+<label for="email">Email id:</label>
+<input type="text" class="form-control" id="email" name="email" placeholder="Enter email id" required>
+</div>
+<div class="form-group">
+<label for="mobile" >Mobile phone:</label>
+<input type="text" class="form-control" id="mobile" name="mobile" placeholder="Enter mobile no." required>
+</div>
+<div class="form-group">
+<label for="notes" rows="6">Notes:</label>
+<textarea class="form-control" id="notes" name="notes" placeholder="Enter your notes here..."></textarea>
+</div>
+<div class="form-group">
+<input type="checkbox" id="emailcpy" name="emailcpy">
+<label for="emailcpy">send me an copy of email.</label>
+</div>
+<div class="btn-group">
+  <button type="submit" data-toggle="tooltip" data-placement="left" title="Tooltip on left" class="btn btn-primary">Submit</button>
+  <button type="reset" class="btn btn-default">Reset</button>
+ </div>
+ <h1>{emailcpy}</h1>
+ <input type = "hidden" name = "_csrf" value = "{_csrf}" />
+</form>
+</div>
+{/body}
+

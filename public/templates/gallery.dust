@@ -1,0 +1,69 @@
+{>"layouts/master" /}
+
+<!--<link href="/css/lightbox.css" type="text/css" />-->
+<style>
+#lightbox .modal-content {
+    display: inline-block;
+    text-align: center;   
+}
+
+#lightbox .close {
+    opacity: 1;
+    color: rgb(255, 255, 255);
+    background-color: rgb(25, 25, 25);
+    padding: 5px 8px;
+    border-radius: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    top: -15px;
+    right: -55px;
+    z-index:1032;
+}
+</style>
+
+{<body}
+<h3 class="cust-header-underline">Gallery</h3>
+
+<!-- Image container -->
+<div class="row">
+  <div class="col-sm-4">
+  <a href="#" class="thumbnail" data-toggle="modal" data-target="#lightbox"> 
+  <img src="http://placehold.it/350x350" alt="..."></a>
+  </div>
+    <div class="col-sm-4">
+  <a href="#" class="thumbnail" data-toggle="modal" data-target="#lightbox"> 
+  <img src="http://placehold.it/350x350" alt="..."></a>
+  </div>
+  <div class="col-sm-4">
+  <a href="#" class="thumbnail" data-toggle="modal" data-target="#lightbox"> 
+  <img src="http://placehold.it/350x350" alt="..."></a>
+  </div>
+ </div>
+ <div class="row">
+  <div class="col-sm-4">
+  <a href="#" class="thumbnail" data-toggle="modal" data-target="#lightbox"> 
+  <img src="http://placehold.it/350x350" alt="..."></a>
+  </div>
+    <div class="col-sm-4">
+  <a href="#" class="thumbnail" data-toggle="modal" data-target="#lightbox"> 
+  <img src="http://placehold.it/350x350" alt="..."></a>
+  </div>
+  <div class="col-sm-4">
+  <a href="#" class="thumbnail" data-toggle="modal" data-target="#lightbox"> 
+  <img src="http://placehold.it/350x350" alt="..."></a>
+  </div>
+ </div>
+
+<!-- Dialog Window-->
+<div id="lightbox" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <div class="modal-content">
+            <div class="modal-body">
+                <img src="http://placehold.it/800x500" alt="" />
+            </div>
+            <div>Title for the image place holder</div>
+          </div>
+    </div>
+</div>
+{/body}

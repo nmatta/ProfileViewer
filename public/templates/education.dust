@@ -1,0 +1,21 @@
+{>"layouts/master" /}
+{<body} 
+<h3 class="cust-header-undeline">Education</h3>
+<dl>
+<dt>Schooling</dt>
+<dd>School: Seventh Day Adventist High School</dd>
+<dd>From: 1981 - To: 1992</dd>
+<dt>&nbsp;</dt>
+<dt>College</dt>
+<dd>College: Visakha Residential College</dd>
+<dd>From: 1992 - To: 1994</dd>
+<dt>&nbsp;</dt>
+<dt>Degree</dt>
+<dd>College: Pydah Degree College</dd>
+<dd>From: 1994 - To: 1997</dd>
+<dt>&nbsp;</dt>
+<dt>PGDCA</dt>
+<dd>Organization: BDPS</dd>
+<dd>From: 1998 - To: 2002</dd>
+</dl>
+{/body}

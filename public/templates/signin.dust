@@ -1,0 +1,35 @@
+{>"layouts/outside" /}
+{<body}
+{@if cond="'{error}' == 'true'"}
+<div class="alert alert-danger">
+    <a href="#" class="close" data-dismiss="alert">&times;</a>
+    <strong>Error!</strong> Invalid username or password.
+</div>
+{/if}
+{@if cond="'{msg}' == 'true'"}
+<div class="alert alert-info">
+    <a href="#" class="close" data-dismiss="alert">&times;</a>
+    You have successfully logged out.
+</div>
+{/if}
+<h3 class="cust-header-undeline">Sign in</h3>
+<div class="container">
+<form role="form" class="cust-form-width" action="/signin" method="POST">
+<div class="form-group">
+<label for="name">Username</label>
+<input type="text" class="form-control" id="name" name="name" placeholder="Enter username" required autofocus>
+</div>
+<div class="form-group">
+<label for="password">Password</label>
+<input type="password" class="form-control" id="password" name="password" placeholder="Enter password" required>
+</div>
+<div class="btn-group">
+  <button type="submit" data-toggle="tooltip" data-placement="left" title="Tooltip on left" class="btn btn-primary">Log In</button>
+  <button type="reset" class="btn btn-default">Reset</button>
+ </div>
+ <h1>{emailcpy}</h1>
+ <input type = "hidden" name = "_csrf" value = "{_csrf}" />
+</form>
+</div>
+{/body}
+

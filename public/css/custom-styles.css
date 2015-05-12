@@ -1,0 +1,12 @@
+.cust-header-undeline{
+ display:block; 
+ border-bottom:1px solid; 
+}
+
+.cust-form-width{
+	max-width: 450px;
+}
+
+.floatRight{
+	float:right;
+}

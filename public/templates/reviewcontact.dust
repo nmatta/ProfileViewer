@@ -1,0 +1,18 @@
+{>"layouts/master" /}
+{<body} 
+<h3 class="cust-header-undeline">Review details</h3>
+<h4> Hi {name}! </h4>
+<p>Thanks for contacting us, will reach you at the earliest 
+via any of the means of communication shared by you below.</p>
+<p>
+Email Id: {email} <br />
+Mobile : {mobile}
+</p>
+{@if cond="'{emailcpy}' == 'on'"}
+<p>
+We have sent an copy of email to your email id as requested to {email}.
+</p>
+{/if}
+Thanking you!!! <br />
+Team.
+{/body}
