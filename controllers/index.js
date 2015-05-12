@@ -5,17 +5,12 @@ var IndexModel = require('../models/index');
 var app = require('express')();
 var session = require("express-session");
 
-
 module.exports = function (router) {
 
     var model = new IndexModel();
 
-    router.get('/', function (req, res){
-        res.render('signin', {error: req.query.error, 'user': req.session.user});}
-    ); 
-
     router.get('/signin', function (req, res, next) {
-       res.render('signin', {error: req.query.error, 'user': req.session.user});
+        res.render('signin', {error: req.query.error, msg: req.query.msg});
     });
 
     router.post('/signin', function(req, res){
@@ -27,13 +22,13 @@ module.exports = function (router) {
             req.session = req.session || {};
             req.session.user = "Naveen Kumar Matta";
             res.redirect('/aboutme');
-        } /*else{
-            res.redirect('/?error=true');
-        }*/
+        } else{
+            res.redirect('/signin?error=true');
+        }
     });
 
     router.get('/aboutme', function (req, res) {
-        res.render('index', {'user': req.session.user});
+           res.render('aboutme', {'user': req.session.user});
     });
 
    router.get('/education', function(req, res){
@@ -66,7 +61,7 @@ module.exports = function (router) {
 
     router.get('/logout', function(req, res){
         delete req.session.user;
-        res.redirect('/signin');
+        res.redirect('/signin?msg=true');
     });
 
 
