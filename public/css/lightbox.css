@@ -1,6 +1,7 @@
 #lightbox .modal-content {
     display: inline-block;
-    text-align: center;   
+    text-align: center; 
+    border:1px solid red;  
 }
 
 #lightbox .close {
@@ -15,4 +16,9 @@
     right: -55px;
     z-index:1032;
     border:1px solid red;
+}
+
+.div{
+
+    border: 5px solid GREEN;
 }

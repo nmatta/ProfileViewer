@@ -1,7 +1,7 @@
 {>"layouts/master" /}
+<link href="/css/lightbox.css" type="text/css" />
 
-<!--<link href="/css/lightbox.css" type="text/css" />-->
-<style>
+<!--<style>
 #lightbox .modal-content {
     display: inline-block;
     text-align: center;   
@@ -19,7 +19,7 @@
     right: -55px;
     z-index:1032;
 }
-</style>
+</style>-->
 
 {<body}
 <h3 class="cust-header-underline">Gallery</h3>

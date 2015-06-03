@@ -1,0 +1,469 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"boot",
+				"bootstrap-lightbox"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"w",
+				"max-width"
+			],
+			[
+				"with",
+				"min-width"
+			],
+			[
+				"re",
+				"requestHandlers"
+			],
+			[
+				"res",
+				"response"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/index.js",
+			"settings":
+			{
+				"buffer_size": 3127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Naveen/node_Samples/MyWebsite",
+		"/C/Naveen/node_Samples/MyWebsite/controllers"
+	],
+	"file_history":
+	[
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/layouts/master.dust",
+		"/C/Naveen/node_Samples/MyWebsite/controllers/database.js",
+		"/C/Naveen/node_Samples/MyWebsite/nav.bat",
+		"/C/Naveen/node_Samples/MyWebsite/models/index.js",
+		"/C/Naveen/node_Samples/MyWebsite/start.bat",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/app.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/css/lightbox.css",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/gallery.dust",
+		"/C/Naveen/node_Samples/MyWebsite/controllers/index.js",
+		"/C/Naveen/node_Samples/MyWebsite/controllers/index_1.js",
+		"/C/Naveen/node_Samples/MyWebsite/config/config.json",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/require.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/layouts/outside.dust",
+		"/C/Naveen/node_Samples/MyWebsite/package.json",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/aboutme.dust",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/signin.dust",
+		"/C/Naveen/node_Samples/MyWebsite/lib/session-handler.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/css/bootstrap-theme.css",
+		"/C/Naveen/node_Samples/MyWebsite/locales/US/en/index.properties",
+		"/C/Naveen/node_Samples/MyWebsite/.bowerrc",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/contactme.dust",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/kraken-js/middleware/404.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/reviewcontact.dust",
+		"/C/Naveen/node_Samples/MyWebsite/public/css/custom-styles.css",
+		"/C/Naveen/node_Samples/MyWebsite/public/css/bootstrap.css",
+		"/C/Naveen/node_Samples/MyWebsite/index.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/index.dust",
+		"/C/Users/nmatta/Desktop/Consumer PPaaS Service Retirement List 040615-Missing.xlsx",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/index_old.dust",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/bootstrap.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/jquery.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/lightbox.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/temporary.html",
+		"/C/Naveen/node_Samples/MyWebsite/config/development.json",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/AngularTesting.html",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/temporary2.html",
+		"/C/Naveen/node_Samples/MyWebsite/public/css/bootstrap-lightbox.css",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/bootstrap-lightbox.js",
+		"/C/Naveen/node_Samples/MyWebsite/locales/US/en/errors/404.properties",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/kraken-js/middleware/multipart.js",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/dashboard/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/cover/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/blog/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/carousel/index.html",
+		"/C/Naveen/node_Samples/SessionValidations/public/templates/contactme.dust",
+		"/C/Naveen/node_Samples/SessionValidations/public/templates/layouts/master.dust",
+		"/C/Naveen/node_Samples/SessionValidations/public/templates/certifications.dust",
+		"/C/Naveen/node_Samples/SessionValidations/public/templates/accolades.dust",
+		"/C/Naveen/node_Samples/SessionValidations/controllers/index.js",
+		"/C/Naveen/node_Samples/SessionValidations/public/js/app.js",
+		"/C/Naveen/node_Samples/SessionValidations/.bowerrc",
+		"/C/Naveen/node_Samples/SessionValidations/package.json",
+		"/C/Naveen/node_Samples/SessionValidations/public/templates/index.dust",
+		"/C/Naveen/node_Samples/SessionValidations/config/config.json",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/.jshintrc",
+		"/C/Naveen/node_Samples/MyWebsite/Gruntfile.js",
+		"/C/Naveen/node_Samples/SessionValidations/index.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/.jshintignore",
+		"/C/Naveen/node_Samples/SessionValidations/node_modules/grunt-contrib-less/tasks/less.js",
+		"/C/Naveen/node_Samples/MyWebsite/tasks/copyto.js",
+		"/C/Naveen/node_Samples/MyWebsite/tasks/clean.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/bootstrap.min.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/css/app.less",
+		"/C/Naveen/node_Samples/MyWebsite/public/css/blueimp-gallery.css",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/blueimp-gallery.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/demo.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/education.dust",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/signin/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/public/js/ie-emulation-modes-warning.js",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/assets/js/ie-emulation-modes-warning.js",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/certifications.dust",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/experience.dust",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/accolades.dust",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/sticky-footer/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/public/css/sticky-footer.css",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/_includes/js/modal.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/_includes/footer.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/starter-template/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/grid/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/migration.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/navbar/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/offcanvas/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/screenshots/navbar.jpg",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/screenshots/equal-height-columns.jpg",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/theme/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/Gruntfile.js",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/sticky-footer/sticky-footer.css",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/non-responsive/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/jumbotron-narrow/index.html",
+		"/C/Naveen/node_Samples/MyWebsite/public/css/footer-social.css",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/errors/404.dust",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/dist/js/npm.js",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/dist/css/bootstrap-theme.css",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/dist/css/bootstrap.css",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/dist/css/bootstrap.css.map",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/navbar/navbar.css",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/about.html",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/acollades.dust",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/index.html",
+		"/C/Sublime Text Build 3065 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/assets/brand/bootstrap-outline.svg",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/javascript.html",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/components.html",
+		"/C/Naveen/node_Samples/MyWebsite/MyWebsite",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/examples/starter-template/starter-template.css",
+		"/C/Naveen/node_Samples/MyWebsite/public/css/signin.css",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/dist/css/bootstrap-theme.css",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/dist/css/bootstrap.css",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/less/thumbnails.less",
+		"/C/Naveen/node_Samples/MyWebsite/node_modules/bootstrap/docs/assets/flash/ZeroClipboard.swf",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/AboutMe.dust",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/layouts/experience.dust",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/layouts/education.dust",
+		"/C/Naveen/node_Samples/MyWebsite/public/templates/layouts/contactme.dust",
+		"/C/Naveen/node_Samples/MyWebsite/.npmignore",
+		"/C/Naveen/node_Samples/MyWebsite/.nodemonignore",
+		"/C/Naveen/node_Samples/MyWebsite/.jshintrc",
+		"/C/Naveen/node_Samples/MyWebsite/.jshintignore",
+		"/C/Naveen/node_Samples/MyWebsite/.editorconfig",
+		"/C/Naveen/node_Samples/MySite/views/index.dust",
+		"/C/Naveen/node_Samples/MySite/index.js",
+		"/C/Naveen/node_Samples/MySite/views/layout/main.dust",
+		"/C/Naveen/node_Samples/MySite/app.js",
+		"/C/Naveen/node_Samples/MySite/testing.js",
+		"/C/Naveen/node_Samples/MySite/layout.jade",
+		"/C/Naveen/node_Samples/MySite/stylesheets/style.css",
+		"/C/Naveen/node_Samples/MySite/views/index.jade",
+		"/C/Naveen/node_Samples/requestHandlers.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"{",
+			"alert-",
+			"alert-error",
+			"alert",
+			"color",
+			"Error",
+			"session",
+			"var",
+			"require('express.js')",
+			"require",
+			"close",
+			"350x150",
+			"role",
+			"data-target",
+			"lightbox",
+			".img-responsive",
+			"phone",
+			"Thanks",
+			"req",
+			"\"",
+			"<a class=\"thumbnail\" href=\"#\">",
+			"please",
+			"ie-emulation-modes-warning.js",
+			"form",
+			".form",
+			"footer",
+			".footer",
+			"footer",
+			"navbar",
+			"view",
+			"errors",
+			"error",
+			"/*",
+			"navbar-default",
+			"navbar",
+			"background-color",
+			"background",
+			"back",
+			"background-color",
+			"nav",
+			"-custom",
+			"custom-",
+			"custom",
+			"navbar-",
+			"navbar-cus",
+			"navbar",
+			"nav-custom",
+			"navbar-custom",
+			"navbar-inverse",
+			"navbar-default",
+			"nav-de",
+			"nav",
+			"browser",
+			"navbar",
+			"nav",
+			"=\"",
+			"form-control",
+			"	\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"350x350",
+			"'",
+			"<a class=\"thumbnail\" href=\"#\" data-gallery>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Naveen\\node_Samples\\MyWebsite"
+		},
+		{
+			"path": "C:\\Naveen\\node_Samples\\SessionValidations"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								727,
+								727
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 379.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -38,9 +38,9 @@
             "module": {
                 "arguments": [ "path:./.build" ]
             }
-        }
+        }, 
 
-        ,"router": {
+        "router": {
             "module": {
                 "arguments": [{ "directory": "path:./controllers" }]
             }
@@ -55,7 +55,7 @@
             }
         }
 
-        ,"app-session":{
+        ,"app-session":{ // added for session objects available across the app.
             "priority": 110,
             "enabled": true,
             "module": {

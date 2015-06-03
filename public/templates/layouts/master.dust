@@ -5,8 +5,6 @@
     <title>{+title /}</title>
     <link rel="stylesheet" href="/css/bootstrap.css" />
     <link rel="stylesheet" href="/css/bootstrap-theme.css" />
-   <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css" rel="stylesheet">-->
     <link rel="stylesheet" href="/css/footer-social.css" />
     <link rel="stylesheet" href="/css/sticky-footer.css" />
     <link rel="stylesheet" href="/css/custom-styles.css" />
@@ -22,7 +20,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/aboutme">Naveen Kumar Matta</a>
+          <a class="navbar-brand" href="/db">Naveen Kumar Matta</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
